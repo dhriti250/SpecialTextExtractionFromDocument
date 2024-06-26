@@ -1,8 +1,16 @@
-# Ammount_Date_MerchantName_Detection
+# Project Name
 
-About the project: We are going to make an mobile application that take image from the camera of receipt and produce an output image with recognition
-of Merchant name, Total, Date and also send the information(Merchant Name ,Date, Total and Bill amount) in json format.
+## How To Run The Program
 
-Input: ![input](https://user-images.githubusercontent.com/60688738/200537330-e9164bf1-7151-4371-b5bb-832eaebbaa86.jpg)
-output:
-![output](https://user-images.githubusercontent.com/60688738/200537403-88e9ef46-3656-442f-b221-91cc0ecd51ce.png)
+###  Create a Python Environment, install the dependencies and run the program
+
+Before running the program, it's recommended to set up a Python environment to manage dependencies.
+
+#### Using Conda
+
+```bash
+conda create --name <Environment_Name>
+conda activate <Environment_Name>
+pip install -r requirements.txt
+python main.py
+
