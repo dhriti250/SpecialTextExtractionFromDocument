@@ -5,4 +5,4 @@ of Merchant name, Total, Date and also send the information(Merchant Name ,Date,
 
 Input: ![input](https://user-images.githubusercontent.com/60688738/200537330-e9164bf1-7151-4371-b5bb-832eaebbaa86.jpg)
 output:
-![output](https://user-images.githubusercontent.com/60688738/20.jpg)
+![output](https://user-images.githubusercontent.com/60688738/20.png)
